@@ -23,7 +23,7 @@
 
 ## 🚀 Featured Projects / 主な開発実績
 
-### [KakeiBonByRust](https://github.com/BonoJovi/KakeiBonByRus
+### [KakeiBonByRust](https://github.com/BonoJovi/KakeiBonByRust)
 - **Description:** Household Budget App "KakeiBonByRust" built with Rust Language and Tauri.
 - **概要:** Rustと言語とTauriフレームワークを用いて構築された 簿アプリケーション。
 
