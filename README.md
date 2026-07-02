@@ -38,3 +38,7 @@
 ### [ai2ia](https://github.com/BonoJovi/ai2ia)
 - **Description:** AI to instruct AI - Prompt optimization and parallel AI response comparison tool.
 - **概要:** AIがAIを指示・最適化するプロンプト最適化機能と、複 比較できる検証ツール。
+
+### [cntl](https://github.com/BonoJovi/cntl)
+- **Description:** Lightweight version control system written in Rust — one SQLite database per repository.
+- **概要:** Rust製の軽量バージョン管理システム(VCS)。「1リポジトリ = 1 SQLiteファイル」という設計思想に基づいて構築。
