@@ -7,7 +7,6 @@
 - **Handle:** BonoJovi (ボノジョヴィ)
 - **Location:** Hiroshima, Japan (広島県)
 - **Role:** Individual Developer / インディペンデント・デベロッパー
-- **Website:** [zundou.org](https://zundou.org)
 - **Qiita:** [BonoJovi on Qiita](https://qiita.com/BonoJovi)
 - **LinkedIn:** [BonoJovi on LinkedIn](https://www.linkedin.com/in/bonojovi)
 
@@ -25,19 +24,19 @@
 
 ### [KakeiBonByRust](https://github.com/BonoJovi/KakeiBonByRust)
 - **Description:** Household Budget App "KakeiBonByRust" built with Rust Language and Tauri.
-- **概要:** Rustと言語とTauriフレームワークを用いて構築された 簿アプリケーション。
+- **概要:** Rust言語とTauriフレームワークを用いて構築された家計簿アプリケーション。
 
 ### [Bonolith](https://github.com/BonoJovi/Bonolith)
 - **Description:** LLM-powered Japanese input method for Linux (IBus & Fcitx5), written in Rust.
-- **概要:** Linux（IBusおよびFcitx5）環境向けに、LLM（大規模言 築された革新的なRust製日本語入力メソッド（IME）。
+- **概要:** Linux（IBusおよびFcitx5）環境向けに、LLM（大規模言語モデル）を活用して構築された革新的なRust製日本語入力メソッド（IME）。
 
 ### [Promps-Ent](https://github.com/BonoJovi/Promps-Ent)
 - **Description:** Visual Prompt Builder. Block-based AI prompt creation tool with Blockly.js and Tauri.
-- **概要:** Blockly.jsとTauriを採用し、視覚的なブロック配置に 成・構築できるビジュアルツール。
+- **概要:** Blockly.jsとTauriを採用し、視覚的なブロック配置によりAIプロンプトを作成・構築できるビジュアルツール。
 
 ### [ai2ia](https://github.com/BonoJovi/ai2ia)
 - **Description:** AI to instruct AI - Prompt optimization and parallel AI response comparison tool.
-- **概要:** AIがAIを指示・最適化するプロンプト最適化機能と、複 比較できる検証ツール。
+- **概要:** AIがAIを指示・最適化するプロンプト最適化機能と、複数のAI応答を並列で比較できる検証ツール。
 
 ### [cntl](https://github.com/BonoJovi/cntl)
 - **Description:** Lightweight version control system written in Rust — one SQLite database per repository.
